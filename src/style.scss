@@ -7,6 +7,10 @@
   color: rgba(68, 68, 68, 1);
 }
 
+::-webkit-scrollbar{
+  display: non;
+}
+
 main {
   width: 100%;
   height: 100%;
